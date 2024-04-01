@@ -29,7 +29,7 @@ The SQL project aims to analyze sales data to provide insights into various aspe
 ## Project Structure
 The repository is organized as follows:
 
-* data/: Contains the raw sales data files.
-* sql/: Includes SQL scripts for data cleaning, feature engineering, and analysis.
-* README.md: Provides an overview of the project, including its objectives, features, 
+* data/ : Contains the raw sales data files.
+* sql/ : Includes SQL scripts for data cleaning, feature engineering, and analysis.
+* README.md : Provides an overview of the project, including its objectives, features, 
   and structure.
