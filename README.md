@@ -33,3 +33,17 @@ The repository is organized as follows:
 * sql/ : Includes SQL scripts for data cleaning, feature engineering, and analysis.
 * README.md : Provides an overview of the project, including its objectives, features, 
   and structure.
+
+  ## Getting Started
+  To replicate the analysis or explore the project further, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the sql/ directory to access the SQL scripts.
+3. Execute the SQL scripts using your preferred database management system.
+4. Analyze the results and derive insights from the generated outputs.
+
+## Requirements
+* SQL database management system (e.g., MySQL, PostgreSQL).
+* Basic understanding of SQL querying and data manipulation techniques.
+
+
